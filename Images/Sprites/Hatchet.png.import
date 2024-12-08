@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/label_HP_bg.png-84a2087bd0c375c0276093133ded6395.stex"
+path="res://.import/Hatchet.png-866c8a357ce23b5752a20ebd9f9a7b99.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GUI_STUFF/label_HP_bg.png"
-dest_files=[ "res://.import/label_HP_bg.png-84a2087bd0c375c0276093133ded6395.stex" ]
+source_file="res://Images/Sprites/Hatchet.png"
+dest_files=[ "res://.import/Hatchet.png-866c8a357ce23b5752a20ebd9f9a7b99.stex" ]
 
 [params]
 

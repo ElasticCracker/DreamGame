@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hachet.png-8706d00e20f2f58c38f6ba7e17aa9380.stex"
+path="res://.import/lifebar_fill.png-07e85732c46e5f4d6c0c21550082b4a8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Sprites/Hachet.png"
-dest_files=[ "res://.import/Hachet.png-8706d00e20f2f58c38f6ba7e17aa9380.stex" ]
+source_file="res://GUI_STUFF/Images/lifebar_fill.png"
+dest_files=[ "res://.import/lifebar_fill.png-07e85732c46e5f4d6c0c21550082b4a8.stex" ]
 
 [params]
 

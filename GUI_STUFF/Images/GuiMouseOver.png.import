@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stone.png-7011717508183b45f919fc798a1439ac.stex"
+path="res://.import/GuiMouseOver.png-2bd33fef6a8dd00d7aa6ddf42fa02d89.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GUI_STUFF/stone.png"
-dest_files=[ "res://.import/stone.png-7011717508183b45f919fc798a1439ac.stex" ]
+source_file="res://GUI_STUFF/Images/GuiMouseOver.png"
+dest_files=[ "res://.import/GuiMouseOver.png-2bd33fef6a8dd00d7aa6ddf42fa02d89.stex" ]
 
 [params]
 

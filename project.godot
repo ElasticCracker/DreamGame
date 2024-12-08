@@ -20,7 +20,7 @@ run/main_scene="res://Source/Lobby.tscn"
 
 [autoload]
 
-ConnectionManager="*res://Source/ConnectionManager.gd"
+gamestate="*res://Source/gamestate.gd"
 
 [input]
 

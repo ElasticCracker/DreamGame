@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Source/Inventory.gd" type="Script" id=1]
+
+[node name="Inventory_Node" type="CanvasLayer"]
+
+[node name="Panel" type="Panel" parent="."]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -270.0
+margin_top = -120.0
+margin_right = 270.0
+mouse_filter = 2
+
+[node name="GridContainer" type="GridContainer" parent="Panel"]
+margin_left = 10.0
+margin_top = 10.0
+margin_right = 530.0
+margin_bottom = 110.0
+columns = 5
+script = ExtResource( 1 )
